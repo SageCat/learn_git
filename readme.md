@@ -1,3 +1,2 @@
-add the first line of this document
-This is the second line of readme
-This is the third line of this document
+# learn_git
+this is the repository for learn_git test
